@@ -3,7 +3,7 @@ import random
 parte1 = [
 	"Frase A",
 	"Frase B",
-	"Frase C"
+	"Frase 3"
 	]
 parte2 = [
 	"Frase D",
